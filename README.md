@@ -79,7 +79,7 @@ natgeo-clone/
     └── images/
 ```
 
-## 🔗 Live Demo
+## 🔗 Live Site
 
 👉 [View Live Site](https://nationalgeographicvr.vercel.app)
 
